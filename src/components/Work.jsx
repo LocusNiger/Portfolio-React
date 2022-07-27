@@ -28,7 +28,7 @@ export default function Work() {
             tec2="Scss"
             tec3="JavaScript"
             deployLink="https://giffy-locusniger.vercel.app/"
-            repoLink="https://github.com/LocusNiger/giffy"
+            repoLink="https://github.com/LocusNiger/Portfolio-React"
           />
           {/* <!--------------------------------------------------------------> */}
           <ProjectCard
